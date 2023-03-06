@@ -2,7 +2,6 @@ import math
 
 # requesting an input from the user
 x = int(input("Input a number: "))
-y = []
 
 # setting the largest prime factor originally to 0
 max_prime = 0
