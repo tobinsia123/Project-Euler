@@ -5,5 +5,4 @@ for i in range(0, len(str(x)), 1):
     z = str(x)[i]
     y = y + int(z)
 
-
 print(y)
